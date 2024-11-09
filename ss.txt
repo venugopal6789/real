@@ -1,0 +1,2 @@
+Successfully installed the configuration.
+Check and confirm the same.
